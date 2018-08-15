@@ -6,5 +6,5 @@ A Keras layer which implements layer whitening as described in [1] I extend the 
 SVD computation done on cpu due to slow computation on gpu.
 
 [1] [Kessy et al., Decorrelated Batch Normalization, 2018](https://arxiv.org/abs/1804.08450)  
-[2] [Huang et al., Optimal whitening and decorrelation, 2015](https://arxiv.org/abs/1512.00809)
+[2] [Huang et al., Optimal whitening and decorrelation, 2015](https://arxiv.org/abs/1512.00809)  
 [3] [Santurkar et al., How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift), 2018](https://arxiv.org/abs/1805.11604)
