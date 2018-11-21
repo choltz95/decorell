@@ -7,6 +7,6 @@ SVD computation done on cpu due to slow computation on gpu.
 
 todo: fix renormalization component, implement group whitening, report timing experiments.
 
-[1] [Kessy et al., Decorrelated Batch Normalization, 2018](https://arxiv.org/abs/1804.08450)  
-[2] [Huang et al., Optimal whitening and decorrelation, 2015](https://arxiv.org/abs/1512.00809)  
+[1] [Kessy et al., Decorrelated Batch Normalization, 2018](https://arxiv.org/abs/1512.00809)  
+[2] [Huang et al., Optimal whitening and decorrelation, 2015](https://arxiv.org/abs/1804.08450)  
 [3] [Santurkar et al., How Does Batch Normalization Help Optimization? (No, It Is Not About Internal Covariate Shift), 2018](https://arxiv.org/abs/1805.11604)
